@@ -1,0 +1,1 @@
+First Submission/FCN Resnet 50/Cross Entropy Loss/Batch Size: 2/Epochs: 50/0.005
